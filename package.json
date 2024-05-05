@@ -1,0 +1,24 @@
+{
+  "name": "filetree-contents",
+  "version": "1.0.0",
+  "description": "Access filesystem subtree content via dot notation",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=16.13.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxsatula/filetree-contents.git"
+  },
+  "keywords": [],
+  "author": "Max Satula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxsatula/filetree-contents/issues"
+  },
+  "homepage": "https://github.com/maxsatula/filetree-contents#readme"
+}
